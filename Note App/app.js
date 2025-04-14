@@ -79,5 +79,5 @@ else if (command === 'remove') {
 }
 
 else{
-  console.log('command note recognized'); 
+  console.log('command not recognized'); //fixed the typo mistake
 }
